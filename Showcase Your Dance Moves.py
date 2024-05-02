@@ -7,7 +7,9 @@ else:
     print("Take an umbrella!")
 
 # Question 1 Task 2
-feeling = "sad"
+feeling = "happy"
 
 if feeling == "sad":
     print("I hope your day gets better!")
+else:
+    print("That's great to hear!")    
