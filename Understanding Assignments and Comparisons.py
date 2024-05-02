@@ -1,4 +1,8 @@
 # Question 5 Task 1
+# The aim of this assignment is to get a grasp on how 
+# assignment operators work and how values can be compared using 
+#comparison operators.
+
 a = 7
 b = 12
 

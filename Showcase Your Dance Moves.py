@@ -1,4 +1,7 @@
 # Question 1 Task 1
+# The aim of this assignment is to understand the 
+# importance of indentation in Python, especially with if statements. 
+
 weather = "sunny"
 
 if weather == "sunny":
