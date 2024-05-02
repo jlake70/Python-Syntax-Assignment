@@ -10,5 +10,5 @@ print(totalCost)
 account_balance = 10,000
 INTEREST = 7/100
 
-account_balance_interest = 10000 *.07 + 10000
+account_balance_interest = 10000 * 7/100 + 10000
 print(account_balance_interest)
